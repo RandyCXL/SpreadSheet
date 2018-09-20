@@ -28,6 +28,8 @@ namespace SpreadSheetAPP.Command
                     return new CommandCreate(input, type, inputArr);
                 case "N":
                     return new CommandNewValue(input, type, inputArr);
+                case "S":
+                    return new CommandSum(input, type, inputArr);
             }
             return null;
         }

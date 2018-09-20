@@ -8,9 +8,7 @@ namespace SpreadSheetAPP.Command
 {
     public class CommandNewValue : CommandModel
     {
-        public int row { get; set; }
-        public int column { get; set; }
-        public int value { get; set; }
+        public SheetPoint point { get; set; }
 
         public CommandNewValue(string input, string type, string[] inputArr) :
             base(input, type)
@@ -18,9 +16,12 @@ namespace SpreadSheetAPP.Command
             //para check
             ParaCheck(inputArr);
 
-            row = int.Parse(inputArr[1]);
-            column = int.Parse(inputArr[2]);
-            value = int.Parse(inputArr[3]);
+            point = new SheetPoint
+            {
+                x = int.Parse(inputArr[1]),
+                y = int.Parse(inputArr[2]),
+                value = int.Parse(inputArr[3])
+            };
         }
 
         public bool ParaCheck(string[] inputArr)

@@ -47,8 +47,10 @@
     <Compile Include="Command\CommandFactory.cs" />
     <Compile Include="Command\CommandModel.cs" />
     <Compile Include="Command\CommandNewValue.cs" />
+    <Compile Include="Command\CommandSum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SheetPoint.cs" />
     <Compile Include="SpreadSheet.cs" />
   </ItemGroup>
   <ItemGroup>

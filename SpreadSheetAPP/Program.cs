@@ -62,6 +62,7 @@ namespace SpreadSheetAPP
                     if (sheet != null)
                     {
                         Console.WriteLine("SpreadSheet already exists!");
+                        sheet.Show();
                     }
                     else
                     {
@@ -78,7 +79,21 @@ namespace SpreadSheetAPP
                     }
                     else
                     {
-                        sheet.SetValue(creatNewValue.row, creatNewValue.column, creatNewValue.value);
+                        sheet.SetValue(creatNewValue.point.x, creatNewValue.point.y, creatNewValue.point.value);
+                        sheet.Show();
+                    }
+                    break;
+                case "S":
+                    var creatSum = (CommandSum)commandModel;
+                    if (sheet == null)
+                    {
+                        Console.WriteLine("Please Create SpreadSheet First!");
+                    }
+                    else
+                    {
+                        var value1 = sheet.GetValue(creatSum.point1.x, creatSum.point1.y);
+                        var value2 = sheet.GetValue(creatSum.point2.x, creatSum.point2.y);
+                        sheet.SetValue(creatSum.point3.x, creatSum.point3.y, value1 + value2);
                         sheet.Show();
                     }
                     break;

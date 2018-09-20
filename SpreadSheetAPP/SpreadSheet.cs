@@ -54,16 +54,16 @@ namespace SpreadSheetAPP
         {
             for (var i = 0; i < row; i++)
             {
-                Console.Write("| ");
+                Console.Write("|");
                 for (var j = 0; j < column; j++)
                 {
                     if (tableData[i, j] == 0)
                     {
-                        Console.Write("    |");
+                        Console.Write("     |");
                     }
                     else
                     {
-                        Console.Write(string.Format("{0,3} |", tableData[i, j]));
+                        Console.Write(string.Format(" {0,3} |", tableData[i, j]));
                     }
                 }
                 Console.WriteLine();
