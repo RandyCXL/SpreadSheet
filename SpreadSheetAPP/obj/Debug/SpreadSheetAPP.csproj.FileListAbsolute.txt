@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\SpreadSheetAPP\SpreadSheetAPP\bin\Debug\SpreadSheetAPP.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\SpreadSheetAPP\SpreadSheetAPP\bin\Debug\SpreadSheetAPP.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SpreadSheetAPP\SpreadSheetAPP\bin\Debug\SpreadSheetAPP.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\SpreadSheetAPP\SpreadSheetAPP\obj\Debug\SpreadSheetAPP.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\SpreadSheetAPP\SpreadSheetAPP\obj\Debug\SpreadSheetAPP.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SpreadSheetAPP\SpreadSheetAPP\obj\Debug\SpreadSheetAPP.pdb
