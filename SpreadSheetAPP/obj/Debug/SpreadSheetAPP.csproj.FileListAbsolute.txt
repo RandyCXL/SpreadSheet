@@ -7,3 +7,6 @@ c:\users\administrator\documents\visual studio 2015\Projects\SpreadSheetAPP\Spre
 F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP\bin\Debug\SpreadSheetAPP.exe.config
 F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP\obj\Debug\SpreadSheetAPP.exe
 F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP\obj\Debug\SpreadSheetAPP.pdb
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP\bin\Debug\SpreadSheetAPP.exe
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP\bin\Debug\SpreadSheetAPP.pdb
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP\obj\Debug\SpreadSheetAPP.csprojResolveAssemblyReference.cache

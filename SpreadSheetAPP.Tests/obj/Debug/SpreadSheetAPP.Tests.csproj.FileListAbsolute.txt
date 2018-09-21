@@ -1,0 +1,15 @@
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\SpreadSheetAPP.Tests.dll
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\SpreadSheetAPP.Tests.pdb
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\SpreadSheetAPP.exe
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\SpreadSheetAPP.pdb
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\zh-Hans\Microsoft.Pex.Framework.resources.dll
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\bin\Debug\zh-Hans\Microsoft.ExtendedReflection.resources.dll
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\obj\Debug\SpreadSheetAPP.Tests.csprojResolveAssemblyReference.cache
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\obj\Debug\SpreadSheetAPP.Tests.dll
+F:\GitRepository\SpreadSheetAPP\SpreadSheetAPP.Tests\obj\Debug\SpreadSheetAPP.Tests.pdb

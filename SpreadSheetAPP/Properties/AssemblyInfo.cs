@@ -34,3 +34,7 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: InternalsVisibleTo("SpreadSheetAPP.Tests")]
+[assembly: InternalsVisibleTo("SpreadSheetAPP.Explorables")]
+[assembly: InternalsVisibleTo("SpreadSheetAPP.Tests1")]
+
