@@ -26,12 +26,14 @@ namespace SpreadSheetAPP
                 {
                     Console.Write("Please input Command:");
                     var commandStr = Console.ReadLine();
+                    //解析命令
                     var commandModel = new CommandFactory().GetCommand(commandStr);
                     if (commandModel == null)
                     {
                         Console.WriteLine("Unknown command!");
                         continue;
                     }
+                    //执行命令
                     result = ExeCommand(commandModel);
                 }
                 catch (Exception ex)
